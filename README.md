@@ -164,19 +164,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📚 Citation
 
-If you use this framework in your research, please cite:
-
-```bibtex
-@misc{llm-security-paradox-2024,
-  title={LLM Security Paradox: Dual-Antagonist Testing Framework},
-  author={[Your Name]},
-  year={2024},
-  publisher={GitHub},
-  url={https://github.com/yourusername/llm-security-paradox}
-}
-```
 
 ## ⚠️ Ethical Considerations
 
@@ -187,11 +175,6 @@ This framework is designed for:
 
 **Do not use these findings for malicious purposes.**
 
-## 🔗 Related Work
-
-- [Original Paper](https://arxiv.org/abs/paper-id)
-- [OpenRouter API Documentation](https://openrouter.ai/docs)
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
 ---
 
